@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "LooiTranslate",
+    "slug": "looitranslate",
+    "scheme": "looiTranslate",
+    "newArchEnabled": true,
+    "platforms": ["ios", "android"],
+    "ios": {
+      "bundleIdentifier": "com.looi.translate"
+    }
+  }
+}
